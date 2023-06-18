@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a77bce68.css",
-    "main.js": "/portfolio/static/js/main.54e10a21.js",
+    "main.js": "/portfolio/static/js/main.420103f7.js",
     "static/media/Thumbnails-18.png": "/portfolio/static/media/Thumbnails-18.395f8714f8a1dca96da7.png",
     "static/media/Thumbnails-15.png": "/portfolio/static/media/Thumbnails-15.64114457726281efefc1.png",
     "static/media/Thumbnails-17.png": "/portfolio/static/media/Thumbnails-17.a47da96ebf9be66bcae5.png",
     "static/media/3dportfolio.JPG": "/portfolio/static/media/3dportfolio.096cbe12d243dc8b4d45.JPG",
-    "static/media/myCV-en.pdf": "/portfolio/static/media/myCV-en.8373f1fb2f2d6aefac7e.pdf",
+    "static/media/vietAnhNguyen_resume_en.pdf": "/portfolio/static/media/vietAnhNguyen_resume_en.883d30b75e699812353f.pdf",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.63e0b8e64cc4e63c082b.jpg",
     "static/media/Thumbnails-16.png": "/portfolio/static/media/Thumbnails-16.f6975cd4997eed68ba00.png",
     "static/media/me-about.png": "/portfolio/static/media/me-about.0a03d00b243b16c4c8af.png",
@@ -17,10 +17,10 @@
     "static/media/avatar3.jfif": "/portfolio/static/media/avatar3.b10d36a6a1811d253da4.jfif",
     "index.html": "/portfolio/index.html",
     "main.a77bce68.css.map": "/portfolio/static/css/main.a77bce68.css.map",
-    "main.54e10a21.js.map": "/portfolio/static/js/main.54e10a21.js.map"
+    "main.420103f7.js.map": "/portfolio/static/js/main.420103f7.js.map"
   },
   "entrypoints": [
     "static/css/main.a77bce68.css",
-    "static/js/main.54e10a21.js"
+    "static/js/main.420103f7.js"
   ]
 }
